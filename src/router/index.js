@@ -271,13 +271,13 @@ let router = new Router({
 		// 家长反馈页
 		{path: '/feedback', name:'feedback', component: feedback, meta: {title: '家长反馈', keepAlive: false}},
 		// 食谱推送页
-		{path: '/recipes_push', name:'recipesPush', component: recipesPush, meta: {title: '好托管微官网--食谱详情', keepAlive: false}},
+		{path: '/recipes_push', name:'recipesPush', component: recipesPush, meta: {title: 'H-T-G微官网--食谱详情', keepAlive: false}},
 		// 每日点评推送页
-		{path: '/daily_push', name:'dailyPush', component: dailyPush, meta: {title: '好托管微官网--点评详情', keepAlive: false}},
+		{path: '/daily_push', name:'dailyPush', component: dailyPush, meta: {title: 'H-T-G微官网--点评详情', keepAlive: false}},
 		// 课程推送页
-		{path: '/course_push', name:'coursePush', component: coursePush, meta: {title: '好托管微官网--课程详情', keepAlive: false}},
+		{path: '/course_push', name:'coursePush', component: coursePush, meta: {title: 'H-T-G微官网--课程详情', keepAlive: false}},
 		// 签到推送页
-		{path: '/sign_push', name:'signPush', component: signPush, meta: {title: '好托管微官网--签到详情', keepAlive: false}},
+		{path: '/sign_push', name:'signPush', component: signPush, meta: {title: 'H-T-G微官网--签到详情', keepAlive: false}},
 		// // 保险单
 		{
 		  path: '/baoxiandan',

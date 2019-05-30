@@ -137,7 +137,7 @@ export default {
       child: {},
       integral: {},
       gene: { title: "基因检测", text: "了解天赋因材施教", imgUrl: record_6 },
-      GENE_URL: "http://wx.icangene.com/haotuoguan_report",
+      GENE_URL: "http://wx.icangene.com/H-T-G_report",
       screenWidth: window.clientWidth,
       showself: true,
       showCoverGuanggao: false

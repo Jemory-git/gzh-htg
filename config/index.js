@@ -12,15 +12,15 @@ module.exports = {
 		assetsPublicPath: '/',
 		// proxyTable: {
 		// 		'/api': {
-		// 				target: 'http://dev.open.weixin.haotuoguan.cn',
+		// 				target: 'http://dev.open.weixin.H-T-G.cn',
 		// 				changeOrigin: true, //改变源 
 		// 				pathRewrite: {
-		// 						'^/api': 'http://dev.open.weixin.haotuoguan.cn'
+		// 						'^/api': 'http://dev.open.weixin.H-T-G.cn'
 		// 				}
 		// 		},
 
 		// 		'/reviews': {
-		// 						target: 'http://dev.api.haotuoguan.cn',
+		// 						target: 'http://dev.api.H-T-G.cn',
 		// 						changeOrigin: true, //改变源 
 		// 						pathRewrite: {
 		// 								'^/reviews': ''
